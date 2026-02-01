@@ -1,4 +1,4 @@
-# Código de Conduta da Sala de Aula
+# Código de Conduta
 
 Tem o objetivo de orientar os alunos sobre comportamentos adequados dentro da sala de aula, promovendo respeito, aprendizado e um ambiente seguro para todos.
 
