@@ -5,7 +5,7 @@ Tem o objetivo de orientar os alunos sobre comportamentos adequados dentro da sa
 ---
 
 ## 1. Respeito e Educação
-- **Trate todos com respeito**, colegas e professores.
+- **Trate todos com respeito**, colegas, professores e funcionários.
 - Evite palavras ofensivas, provocações ou interrupções durante a aula.
 - **Ouça quando alguém estiver falando**, seja professor ou colega.
 - Respeite diferentes opiniões, mesmo que você não concorde.
